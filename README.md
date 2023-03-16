@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **jantus143star@gmail.com**
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
